@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1609167990 source:c:\users\ricardo\desktop\projecto\aula.c
+
+1609701143 source:c:\users\ricardo\desktop\projecto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1509696922 c:\users\ricardo\desktop\projecto\funcoes_auxiliares.h
+	"constantes.h"
+
+1609273989 c:\users\ricardo\desktop\projecto\constantes.h
+
+1611174265 source:c:\users\ricardo\desktop\projecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_ucs.h"
+
+1611175857 c:\users\ricardo\desktop\projecto\funcoes_ucs.h
+	"aula.h"
+	"constantes.h"
+
+1611174583 source:c:\users\ricardo\desktop\projecto\funcoes_ucs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_ucs.h"
+
+1609777911 c:\users\ricardo\desktop\projecto\aula.h
+
+1611174384 source:c:\users\ricardo\desktop\projecto\funcoes_agendamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_agendamentos.h"
+
+1609778425 c:\users\ricardo\desktop\projecto\funcoes_agendamentos.h
+	"aula.h"
+	"constantes.h"
+
+1609785748 source:c:\users\ricardo\desktop\projecto\funcoes_ficheiros.c
+	<stdlib.h>
+	<string.h>
+	"funcoes_ficheiros.h"
+
+1611174254 c:\users\ricardo\desktop\projecto\funcoes_ficheiros.h
+	"aula.h"
+	"constantes.h"
+
